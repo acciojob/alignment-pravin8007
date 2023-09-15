@@ -1,0 +1,9 @@
+.middle,td,tr{
+	border: 1px solid black ;
+}
+.middle{
+	width : 100% ;
+}
+td{
+	height: 15px ;
+}
