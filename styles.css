@@ -10,3 +10,9 @@ td{
 #t-image{
 	text-align :center;
 }
+.center{
+	text-align:center;	
+}
+	.right{
+		text-align : right;
+	}
